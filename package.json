@@ -1,0 +1,31 @@
+{
+  "name": "safemode",
+  "version": "1.0.0",
+  "description": "Bot destinated to fight crime by using videos to idetify people, crime scenes and alerting the users with valuable data about the criminals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epm105/safeMode.git"
+  },
+  "keywords": [
+    "safeMode",
+    "crimeFight",
+    "scene",
+    "criminals",
+    "police",
+    "video"
+  ],
+  "author": "Mendoza Posada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epm105/safeMode/issues"
+  },
+  "homepage": "https://github.com/epm105/safeMode#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
